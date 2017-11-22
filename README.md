@@ -4,7 +4,7 @@ Design Document for
 
 Taofik Aiyepola
 
-**Problems to solve
+**Problems to solve**
 
 Sets the left & right children to null & sets content to a new type pointer
 
